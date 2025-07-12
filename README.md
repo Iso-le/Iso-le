@@ -1,16 +1,48 @@
-## Hi there 👋
+<div class="crop-container">
+  <img src="https://i.pinimg.com/1200x/93/8a/7c/938a7c3b15150abeeb886152541a75c7.jpg" alt="Cropped">
+</div>
 
-<!--
-**Iso-le/Iso-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+.crop-container {
+  width: 100%; 
+  height: 200px;  
+  overflow: hidden; 
+  position: relative;
+}
 
-Here are some ideas to get you started:
+.crop-container img {
+  position: absolute;
+  top: 80%;
+  left: 0;
+  width: 100%;
+  height: auto;
+  transform: translateY(-50%);
+}
+</style>
+<h1 align="center">It's me Iso!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: *RemoteCodeExecutionTools*  
+- 🌱 Learning: *TypeScript*   
+- 📫 How to reach me: *[iso.lle@proton.me]*  
+
+---
+
+### 💻 Languages
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nodejs/nodejs-original.svg" />
+<br/><br/>
+
+---
+
+### 📈 GitHub Stats
+
+![Iso's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me
+
+- 🐦 Twitter: [@iso](https://twitter.com/your_twitter)  
