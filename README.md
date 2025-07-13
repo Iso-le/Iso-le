@@ -1,24 +1,7 @@
 <div class="crop-container">
-  <img src="https://i.pinimg.com/1200x/93/8a/7c/938a7c3b15150abeeb886152541a75c7.jpg" alt="Cropped">
+  <img src="https://ibb.co/FbC06D1j">
 </div>
 
-<style>
-.crop-container {
-  width: 100%; 
-  height: 200px;  
-  overflow: hidden; 
-  position: relative;
-}
-
-.crop-container img {
-  position: absolute;
-  top: 80%;
-  left: 0;
-  width: 100%;
-  height: auto;
-  transform: translateY(-50%);
-}
-</style>
 <h1 align="center">It's me Iso!</h1>
 
 - 🔭 Currently working on: *RemoteCodeExecutionTools*  
