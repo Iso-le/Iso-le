@@ -4,8 +4,8 @@
 
 <h1 align="center">It's me Iso!</h1>
 
-- 🔭 Currently working on: *RemoteCodeExecutionTools*  
-- 🌱 Learning: *TypeScript*   
+- 🔭 Currently working on: *Nothing*  
+- 🌱 Learning: *Nothing*   
 - 📫 How to reach me: *[iso.lle@proton.me]*  
 
 ---
